@@ -8,6 +8,7 @@ bip39 = { version = "2.1.0", features = ["rand"]}
 bs58 = "0.5.1"
 ed25519-hd-key = "0.3.0"
 ethers = "2.0.14"
+hdwallet = "0.4.1"
 hex = "0.4.3"
 solana-sdk = "2.3.0"
 tokio = { version = "1.45.1", features = ["full"] }
